@@ -1,0 +1,1 @@
+"0","moja = raw %>% clean_names() %>% select(-c(1,28,29))"

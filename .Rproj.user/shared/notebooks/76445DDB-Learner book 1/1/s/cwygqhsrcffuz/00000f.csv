@@ -1,0 +1,4 @@
+"0","trial.longer = iris %>% "
+"0","  as_tibble() %>% "
+"0","  janitor::clean_names() %>% "
+"0","  pivot_longer(names_to = ""variable"", values_to = ""value"", cols = 1:4)"

@@ -1,0 +1,9 @@
+"0","world = read_csv(""e:/MY STAFS/rlaguage//The world population data/world_population.csv"") "
+"2","[1mRows: [22m[34m234[39m [1mColumns: [22m[34m17[39m"
+"2","[36m--[39m [1mColumn specification[22m [36m-------------------------------------------------------------[39m
+[1mDelimiter:[22m "",""
+[31mchr[39m  (4): CCA3, Country, Capital, Continent
+[32mdbl[39m (13): Rank, 2022 Population, 2020 Population, 2015 Population, 2010 Populatio..."
+"2","
+[36mi[39m Use `spec()` to retrieve the full column specification for this data.
+[36mi[39m Specify the column types or set `show_col_types = FALSE` to quiet this message."

@@ -1,0 +1,3 @@
+"0","trial.longer %>% "
+"0","  ggplot(aes(x = species, y = value, color = variable)) +"
+"0","  geom_boxplot()"
