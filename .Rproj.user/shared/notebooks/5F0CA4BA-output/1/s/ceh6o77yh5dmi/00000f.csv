@@ -1,6 +1,0 @@
-"0","supa %>% "
-"0","  ggplot(aes(x = value, colour = sample, fill = sample))+"
-"0","  geom_density(alpha = 0.1)+"
-"0","  theme_bw()+theme(panel.grid.major = element_blank())+"
-"0","  theme(panel.grid.minor = element_blank())+"
-"0","  theme(legend.position = ""bottom"")+theme(axis.text.x = element_text(colour = ""darkblue"", size = 10),axis.text.y = element_text(colour = ""darkblue"", size = 10),axis.title = element_text(colour = ""darkblue"", size = 13),legend.text = element_text(colour = ""darkblue""),legend.title = element_text(colour = ""darkblue"", size = 10))"

@@ -1,3 +1,0 @@
-"0","mbili = moja %>% pivot_longer(names_to = ""kids"", values_to = ""number"", cols = 7:26) %>% "
-"0","  mutate(gender = c(""boys"", ""girls"") %>% rep(times = 185460),"
-"0","         age = seq(5, 14, 1) %>% rep(each = 2) %>% rep(times = 18546)) "

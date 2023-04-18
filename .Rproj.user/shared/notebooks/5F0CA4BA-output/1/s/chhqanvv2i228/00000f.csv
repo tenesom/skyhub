@@ -1,6 +1,0 @@
-"0","ggplot(data = cont, aes(x = continent, y = population))+ "
-"0","  geom_col(fill = ""blue"")+ "
-"0","  theme(panel.background = element_rect(fill = 0.4), "
-"0","        axis.line = element_line(colour = 1, size = 0.4), "
-"0","        axis.text = element_text(colour = 1, size = 11), "
-"0","        axis.title = element_text(colour = 17, size = 16))"

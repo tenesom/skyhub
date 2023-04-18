@@ -1,2 +1,0 @@
-"0","notame = bind_rows(con, con1, con2, con3, con4, con5) %>% "
-"0","  filter(continent == ""North America"")"

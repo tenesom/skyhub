@@ -1,0 +1,12 @@
+---
+title: "CURRICULUM VITAE (CV)"
+author: "BENJAMINI ANDREA MPINGA"
+date: "CURRENT GENERAL INFORMATION"
+output: html_document
+---
+
+
+
+
+![](My_online_book_Cv.pdf)
+

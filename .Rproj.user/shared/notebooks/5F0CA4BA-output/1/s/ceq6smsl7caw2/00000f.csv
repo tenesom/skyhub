@@ -1,4 +1,0 @@
-"0","trial.longer %>% "
-"0","  ggplot(aes(x = species, y = value, fill = variable)) +"
-"0","  geom_boxplot() +"
-"0","  facet_wrap(~variable)"

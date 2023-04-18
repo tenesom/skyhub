@@ -1,4 +1,0 @@
-"0","pop = world %>% "
-"0","  clean_names() %>% "
-"0","  select(-c(1:2, 4, 7:17)) %>% "
-"0","  rename(""population"" = 3)"

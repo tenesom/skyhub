@@ -1,0 +1,97 @@
+---
+title: "CURRICULUM VITAE (CV)"
+author: "BENJAMINI ANDREA MPINGA"
+date: "CURRENT GENERAL INFORMATION"
+output: pdf_document
+---
+![](benprofile.jpg)
+
+# PERSONAL INFORMATION:
+
+**NAME:** BENJAMINI ANDREA MPINGA
+ 
+**BIRTH:** 16 -- 07 -- 1990
+ 
+**PLACE OF BIRTH:** ARUSHA,TANZANIA
+ 
+**MARITAL STATUS:** MARRIED
+ 
+**RELIGION:** CHRISTIANITY
+ 
+**NATIONALITY:** TANZANIAN
+
+# ADDRESS AND CONTACT INFORMATION:
+
+**RESIDENCE:** KIGAMBONI,DAR ES SALAAM
+
+**CELL PHONE:** +255 679 767 645
+
+**WHATSAPP CONTACT:** +255 768 596 017
+ 
+**E-mail Address:** benjaminindrw@gmail.com
+
+**My online Cv's Link address:** > https://tenesom.github.io/skyhub/
+
+You can take a few second to visit the above link address to access more detail about my Cv. Where i have provided more information about my professional and technical Skills knowledge.
+ 
+# EDUCATION BACKGROUND INFORMATION:
+
+**UNIVERSITY EDUCATION:** BRINGHAM YOUNG UNIVERSITY (BYU) -- (Pathway -- Connect Program) Ongoing 
+
+**COLLAGE EDUCATION:** ALLIANCE FRANCAISE -- From 2012 to 2016
+
+**HIGHER EDUCATION:** MOUNTAIN -- From 2009 to 2011
+
+**SECONDARY EDUCATION:**  MRINGA SECONDARY SCHOOL -- From 2005 to 2008                              
+
+**PRIMARY EDUCATION:** MAMBA PRIMARY SCHOOL -- From 1998 to 2004
+
+# SKILLS AND KNOWLEDGE:
+
+- BLOG CREATION AND DEVELOPMENT. Examples of my personal blogs that i have developed using R programming language through Quarto.
+1. **Technical Link address:** https://tenesom.github.io/Benjamini-teneson/
+1. **Social Link address:** https://tenesom.github.io/benjamini-mpinga/blog.html
+- R PROGRAMING LANGUAGE AND QUARTO 
+- DATA AND STATISTICAL ANALYSIS
+- CONTENT WRITING
+- LEGAL MEDIATION AND SOCIAL CONFLICT RESOLUTION
+- TOURISM AND TOURGUIDING
+- MULTLINGUA
+
+# LANGUAGE:
+
+**1. KISWAHILI:** Native Speaker
+
+**1. ENGLISH:** Fluent Speaker and a good Writer
+
+**1. FRENCH:** Fluent Speaker
+
+**1. SPANISH:** Current a Student
+
+# HOBIES:
+
+- I usually spend my extra time to write some posts on my blogs 
+- I also spare time to read books, especially research based information 
+- I curiously read Bible as often as i could, as well as having enough time to discuss with my family
+- Sometimes i spend time to exchange ideas with my friends either physically or through phone 
+
+# REFEREES INFORMATION:
+
+**DR.MASUMBUKO LUGOGA SEMBA**
+
+**DR.ISMAEL KIMREI**
+
+**DR.CHALES CHACHA**
+
+**MRS.NYAMISI PETTER MOMBIA**
+
+**MR GABRIEL NGERO**
+
+# CONCLUSION:
+
+This curriculum Vitae (CV), describe in detail all the current and relevant information about my self, which basically consist of Formal certified skills and informal, all the skills which are related to Technology, i attained them through my personal effort and online provided skills. All formal certificate i can provide are those of my Education background. Unfortunately i am now competent in Tech field than those of area of my Professional.
+
+
+
+
+

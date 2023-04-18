@@ -1,3 +1,0 @@
-"0","trial = iris %>% "
-"0","  as_tibble() %>% "
-"0","  janitor::clean_names() "
